@@ -17,7 +17,7 @@ If you share your contributions on X or bsky, please use the hashtag [#30DayChar
 
 ## 30DayChartChallenge Topics by Day
 
--   **Comparisons**\
+-   **Comparisons** \
     1. part-to-whole ![](img/Day%201.png)\
     2. neo ![](img/Day%202.png)\
     3. makeover ![](img/Day%203.png)\
