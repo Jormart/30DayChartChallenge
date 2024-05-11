@@ -1,0 +1,351 @@
+---
+title: "30DayChartChallenge Topics by Day"
+subtitle: "08MBID_2023-2324 Trabájo Práctico"
+format: html
+author: "Jorge Martínez Tórtola"
+editor: visual
+---
+
+# Contexto
+
+El desafío de 30DayChartChallenge ofrece una excelente oportunidad para explorar diferentes aspectos de la visualización de datos. Aquí están los temas por día junto con algunos elementos de contextualización que podrías considerar al crear tus visualizaciones:
+
+1.  **Elementos de la visualización:** Es crucial entender los elementos básicos de una visualización de datos, como ejes, leyendas, colores y etiquetas, para crear una presentación clara y comprensible.
+
+2.  **Audiencia:** Conocer a tu audiencia es fundamental. ¿Estás creando la visualización para expertos en el tema, para el público en general o para un grupo específico de personas? Asegúrate de adaptar el nivel de detalle y la complejidad de la visualización en función de quién la va a ver.
+
+3.  **Objetivo (tu objetivo):** ¿Qué intentas lograr con esta visualización? ¿Quieres informar, persuadir, entretener o algo más? Define claramente tu objetivo para que puedas diseñar una visualización efectiva que cumpla con ese propósito.
+
+4.  **Objetivo (audiencia):** También es importante considerar qué espera tu audiencia de la visualización. ¿Qué tipo de información están buscando? ¿Qué preguntas esperan que se respondan? Alinea tu visualización con las expectativas de tu audiencia para que sea relevante y útil para ellos.
+
+5.  **Mensaje:** Cada visualización debe transmitir un mensaje claro y conciso. Piensa en qué quieres comunicar y cómo puedes hacerlo de manera efectiva a través de tu documento o presentación. Asegúrate de que el mensaje sea fácil de entender y que resalte los puntos clave que deseas transmitir.
+
+6.  **Elección de herramientas:**
+
+    -   **DataWrapper:** Para visualizaciones rápidas y atractivas sin programación.
+
+    -   **Python (Matplotlib):** Personalización completa de gráficos estáticos en Python.
+
+    -   **R (ggplot2):** Gramática de gráficos en R para visualizaciones avanzadas y estadísticas.
+
+Teniendo en cuenta estos elementos de contextualización, puedes crear visualizaciones más efectivas y significativas como parte del desafío de 30DayChartChallenge. ¡Buena suerte! Si necesitas ayuda con alguna visualización específica o más detalles sobre cómo abordar alguno de estos temas, estoy aquí para ayudar.
+
+# 30DayChartChallenge Topics by Day
+
+## Comparisons
+
+### 1. part-to-whole
+
+**Cuestión:** ¿Se está realmente en el camino de un futuro verde?
+
+![](img/Day 1.png)
+
+**Enlace:** <https://www.datawrapper.de/_/4UcX7/?v=4>
+
+**Fuente:** [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/NRG_IND_REN/default/table?lang=en)
+
+### 2. neo
+
+**Cuestión:** ¿Se usan nuevas técnologías en los modelos de negocio?
+
+![](img/Day%202.png)
+
+**Herramienta**: R(ggplot2)
+
+**Fuente:** [CompTia](https://connect.comptia.org/blog/artificial-intelligence-statistics-facts#:~:text=According%20to%20the%20CompTIA%20IT,still%20in%20the%20exploration%20phase.)
+
+### 3. makeover
+
+**Cuestión:** ¿La redistribución de la riqueza a nivel mundial será posible algún día?
+
+```{r, echo=FALSE, out.extra='style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"'}
+
+knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
+
+```
+
+**Enlace:** [https://www.datawrapper.dwcdn.net/pOGNd/2/](https://datawrapper.dwcdn.net/pOGNd/2/){.uri}
+
+**Fuente:** [The World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?end=2022&name_desc=true&start=1960&view=map&year=2022)
+
+### 4. waffle
+
+**Cuestión:** ¿El sector terciario está desapareciendo realmente?
+
+![](img/Day%204.png)
+
+**Herramienta:** R(ggplot2)
+
+**Fuente:** [Guia de Negocios en España/2023 (INE)](https://www.guidetobusinessinspain.com/espana-un-pais-atractivo-para-la-inversion/1-5-estructura-economica/)
+
+### 5. diverging
+
+**Cuestión:** ¿Hemos progresado realmente?
+
+![](img/Day 5.png)
+
+**Enlace:** [https://www.datawrapper.dwcdn.net/Lqzsv/2/](https://datawrapper.dwcdn.net/Lqzsv/2/)
+
+**Fuente:** [INe](https://www.ine.es/jaxiT3/Datos.htm?t=28101)
+
+### 6. data day: [OECD](data.oecd.org)
+
+**Cuestión: ¿Será posible así ralentizar el cambio climático?**
+
+![](img/Day 6.png)
+
+**Enlace:** <https://datawrapper.dwcdn.net/sHbjU/2/>
+
+**Fuente:** [OECD](https://data-explorer.oecd.org/vis?fs%5B0%5D=Topic%2C1%7CEnvironment%23ENV%23%7CAir%20and%20climate%23ENV_AC%23&pg=0&fc=Topic&bp=true&snb=12&df%5Bds%5D=dsDisseminateFinalDMZ&df%5Bid%5D=DSD_AIR_GHG%40DF_AIR_GHG&df%5Bag%5D=OECD.ENV.EPI&df%5Bvs%5D=1.0&pd=2010%2C&dq=.A.GHG._T.&ly%5Brw%5D=REF_AREA%2CUNIT_MEASURE&ly%5Bcl%5D=TIME_PERIOD&to%5BTIME_PERIOD%5D=false&vw=tb)
+
+## Distributions
+
+### 7. hazards
+
+**Cuestión: ¿La formación y el conocimiento en PRL son realmente efectivos en España?**
+
+![](img/Day 7.png)
+
+**Enlace:** <https://www.datawrapper.de/_/OEvMY/?v=3>
+
+**Fuente:** [INe](https://www.ine.es/jaxi/Datos.htm?tpx=48662)
+
+### 8. circular
+
+**Cuestión: Regions in the world by population (2024)**
+
+![](img/Day 8.png)
+
+**Enlace:** <https://www.datawrapper.de/_/XMyiE/>
+
+**Fuente:** [worldometers](https://www.worldometers.info/world-population/population-by-region/)
+
+### 9. major/minor
+
+**Cuestión: ¿La desigualdad entre el norte y el sur de un país siempre es evidente?**
+
+![**Herramienta:** Python(matplotlib)](img/Day 9.png)
+
+**Fuente:** [INe](https://www.ine.es/jaxiT3/Datos.htm?t=10011)
+
+### 10. physical
+
+**Cuestión: ¿ La población está realmente concienciada con los beneficios de la actividad física?**
+
+![](img/Day 10.png)
+
+**Herramienta:** Python(matplotlib)
+
+**Fuente:** [INe](https://www.ine.es/jaxi/Datos.htm?path=/t00/mujeres_hombres/tablas_1/l0/&file=d06006.px)
+
+### 11. mobile-friendly
+
+**Cuestión: ¿Hay una relación entre las descargas de apps y las tendencias de consumo?**
+
+![](img/Day 11.png)
+
+**Enlace:** <https://www.datawrapper.de/_/Jgx14/?v=3>
+
+**Fuente:** [Business of Apps](https://www.businessofapps.com/data/spain-app-market/)
+
+### 12. theme day: Reuters Graphics
+
+**Cuestión: ¿Realmente está afectando la inflación al consumo?**
+
+![](img/Day 12.png)
+
+**Herramienta:** R(ggplot2)
+
+**Fuente:** [INe](https://www.ine.es/jaxiT3/Datos.htm?t=23706)
+
+## Relationships
+
+### 13. family
+
+**Cuestión: ¿Las reuniones familiares son realmente frecuentes?**
+
+![](img/Day 13.png)
+
+**Enlace:** <https://www.datawrapper.de/_/hKTCn/>
+
+**Fuente:** [INe](https://www.ine.es/jaxi/Datos.htm?tpx=51421)
+
+### 14. heatmap
+
+**Cuestión: ¿Que conexión/relación existe entre las diferentes partes de un coche?**
+
+![](img/Day 14.png)
+
+**Herramienta:** R(ggplot2)
+
+**Fuente: mtcars(R)**
+
+### 15. historical
+
+**Cuestión: ¿Como hemos crecido a lo largo de la historía?**
+
+![](img/Day 15.PNG)
+
+**Enlace:** <https://www.datawrapper.de/_/3jZl2/?v=4>
+
+**Fuente:** [worldometers](https://www.worldometers.info/world-population/world-population-by-year/)
+
+### 16. weather
+
+**Cuestión: ¿Son realmente preocupantes estas temperaturas en esta época del año?**
+
+![](img/Day 16.PNG)
+
+**Enlace:** <https://www.datawrapper.de/_/nt3nn/>
+
+**Fuente:** [Aemet](https://www.aemet.es/es/eltiempo/prediccion/espana)
+
+### 17. networks
+
+**Cuestión: ¿Existe una trama tan compleja como lo parece en la serie?**
+
+![](img/Day 17.png)
+
+**Herramienta:** R(ggplot2)
+
+**Fuente:** [Github](https://gist.githubusercontent.com/abkunal/98d35b9b235312e90f3e43c9f7b6932b/raw/d5589ddd53731ae8eec7abd091320df91cdcf5cd/miserables.json)
+
+### 18. data day: [Asian Development Bank](data.adb.org)
+
+**Cuestión: Evolución del PIB en el continente Asíatico en los últimos 6 años**
+
+![](img/Day 18.PNG)
+
+**Enlace:** <https://www.datawrapper.de/_/L6jut/?v=2>
+
+**Fuente:** [ADB](https://data.adb.org/dataset/gdp-growth-asia-and-pacific-asian-development-outlook)
+
+## Timeseries
+
+### 19. dinosaurs
+
+**Cuestión: ¿Existe una relación temporal realmente?**
+
+![**Enlace:** <https://www.datawrapper.de/_/pwGwA/?v=3>](img/Day 19.png)
+
+**Fuente:** [kaggle](https://www.kaggle.com/datasets/kjanjua/jurassic-park-the-exhaustive-dinosaur-dataset/data?select=data.csv)
+
+### 20. correlation
+
+**Cuestión: ¿Realmente existe una correlación tan clara?**
+
+![](img/Day 20.png)
+
+**Herramienta:** R(ggplot2)
+
+Fuente: [AirPassengers](https://www.kaggle.com/datasets/chirag19/air-passengers)
+
+### 21. green energy
+
+**Cuestión: ¿La producción de energía verde progresa adecuadamente?**
+
+![](img/Day 21.png)
+
+**Enlace:** [https://www.datawrapper.dwcdn.net/Z7kuj/2/](https://datawrapper.dwcdn.net/Z7kuj/2/)
+
+**Fuente:** [IRENA](https://pxweb.irena.org/pxweb/en/IRENASTAT/IRENASTAT__Power%20Capacity%20and%20Generation/RESHARE_2024_H1.px/)
+
+### 22. mobility
+
+**Cuestión: ¿Vuelta a la normalidad tras la pandemia?**
+
+![](img/Day 22.png)
+
+**Enlace:** <https://datawrapper.dwcdn.net/sj6XB/2/>
+
+**Fuente:** [INe](https://www.ine.es/jaxiT3/Datos.htm?t=49360)
+
+### 23. tiles
+
+**Cuestión: ¿Es realmente significativa esta representación?**
+
+![](img/Day 23.png)
+
+**Enlace:** <https://www.datawrapper.de/_/92WZT/>
+
+**Fuente:** [INe](https://www.ine.es/jaxiT3/Datos.htm?t=5226)
+
+### 24. theme day: [ILO Africa](ilostat.ilo.org/data/africa/)
+
+**Cuestión: ¿La diferencia entre la pobreza y la pobreza extrema es tan considerable?**
+
+![](img/Day 24.png)
+
+**Enlace:** <https://app.datawrapper.de/archive#/5UGyF>
+
+**Fuente:** [ILO África](https://rshiny.ilo.org/dataexplorer12/?region=AFRICA&lang=en&id=SDG_0111_SEX_AGE_RT_A)
+
+## Uncertainties
+
+### 25. global change
+
+**Cuestión: Variación anual de la temperatura mundial en superficie**
+
+![](img/Day 25.png)
+
+**Enlace:** <https://www.datawrapper.de/_/kj5oO/>
+
+**Fuente:** [IMF Climate Change Data](https://climatedata.imf.org/datasets/4063314923d74187be9596f10d034914/explore)
+
+### 26. AI
+
+**Cuestión: Porcentaje empresas que emplean tecnologías de Inteligencia Artificial (IA)**
+
+![](img/Day 26.png)
+
+**Enlace:** <https://www.datawrapper.de/_/FCUfy/>
+
+**Fuente:** [INe](https://www.ine.es/jaxi/Datos.htm?tpx=49900)
+
+### 27. good/bad
+
+**Cuestión: Nacimientos y Defunciones por CCAA en 2023**
+
+![](img/Day 27.png)
+
+**Enlace:** <https://www.datawrapper.de/_/F5Xdt/?v=4>
+
+**Fuente:** [INe](https://www.ine.es/dyngs/Prensa/es/EDES_EMN2023.htm)
+
+### 28. trend
+
+**Cuestión: Índice de Envejecimiento por año.**
+
+![](img/Day 28.png)
+
+**Enlace:** <https://www.datawrapper.de/_/c6s5n/?v=2>
+
+**Fuente:** [INe](https://www.ine.es/jaxiT3/Datos.htm?t=36667)
+
+### 29. black & white
+
+**Cuestión: Crecimiento de la Población en 2022.**
+
+![](img/Day 29.png)
+
+**Enlace:** <https://www.datawrapper.de/_/1N8TE/?v=2>
+
+**Fuente:** [INe](https://www.ine.es/jaxiT3/Datos.htm?t=5226)
+
+### 30. FiveThirtyEight(theme day)
+
+**Cuestión: ¿Qué haría falta para que los estados rojos se volvieran azules?**
+
+![](img/Day 30.png)
+
+**Enlace:** <https://www.datawrapper.de/_/r7u6N/?v=2>
+
+**Fuente:** [FiveThirtyEight](https://projects.fivethirtyeight.com/2024-swing-the-election/)
+
+## Referencias
+
+-   Spreadsheet con los datasets tratados: <https://docs.google.com/spreadsheets/d/1br8ojsv9aEzJ7uX3t56HNvm4uoGxEiARfsbd0DNtmjI/edit?usp=drive_link>
+
+-   Repositorio del challenge: <https://github.com/30DayChartChallenge/Edition2024>
+
+-   Repositorio personal del challenge:
