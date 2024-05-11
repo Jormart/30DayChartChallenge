@@ -19,15 +19,15 @@ If you share your contributions on X or bsky, please use the hashtag [#30DayChar
 
 -   **Comparisons**\
     1. part-to-whole ![](img/Day%201.png)\
-    2.  neo ![](img/Day%202.png)\
-    3.  makeover ![](img/Day%203.png)\
-    4.  waffle ![](img/Day%204.png)\
-    5.  diverging ![](img/Day%205.png)\
-    6.  data day: [OECD](data.oecd.org) ![](img/Day%206.png)
+    2. neo ![](img/Day%202.png)\
+    3. makeover ![](img/Day%203.png)\
+    4. waffle ![](img/Day%204.png)\
+    5. diverging ![](img/Day%205.png)\
+    6. data day: [OECD](data.oecd.org) ![](img/Day%206.png)
 -   **Distributions**\
-    7.  hazards ![](img/Day%207.png)\
-    8.  circular ![](img/Day%208.png)\
-    9.  major/minor ![](img/Day%209.png)\
+    7. hazards ![](img/Day%207.png)\
+    8. circular ![](img/Day%208.png)\
+    9. major/minor ![](img/Day%209.png)\
     10. physical ![](img/Day%2010.png)\
     11. mobile-friendly ![](img/Day%2011.png)\
     12. theme day: Reuters Graphics ![](img/Day%2012.png)
