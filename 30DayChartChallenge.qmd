@@ -1,6 +1,6 @@
 ---
-title: "30DayChartChallenge Topics by Day"
-subtitle: "08MBID_2023-2324 Trabájo Práctico"
+subtitle: "30DayChartChallenge Topics by Day"
+title: "08MBID_2023-2324 Trabajo Práctico"
 format: html
 author: "Jorge Martínez Tórtola"
 editor: visual
@@ -38,7 +38,7 @@ Teniendo en cuenta estos elementos de contextualización, puedes crear visualiza
 
 **Cuestión:** ¿Se está realmente en el camino de un futuro verde?
 
-![](img/Day 1.png)
+![](img/Day%201.png)
 
 **Enlace:** <https://www.datawrapper.de/_/4UcX7/?v=4>
 
@@ -82,7 +82,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión:** ¿Hemos progresado realmente?
 
-![](img/Day 5.png)
+![](img/Day%205.png)
 
 **Enlace:** [https://www.datawrapper.dwcdn.net/Lqzsv/2/](https://datawrapper.dwcdn.net/Lqzsv/2/)
 
@@ -92,7 +92,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: ¿Será posible así ralentizar el cambio climático?**
 
-![](img/Day 6.png)
+![](img/Day%206.png)
 
 **Enlace:** <https://datawrapper.dwcdn.net/sHbjU/2/>
 
@@ -104,7 +104,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: ¿La formación y el conocimiento en PRL son realmente efectivos en España?**
 
-![](img/Day 7.png)
+![](img/Day%207.png)
 
 **Enlace:** <https://www.datawrapper.de/_/OEvMY/?v=3>
 
@@ -114,7 +114,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: Regions in the world by population (2024)**
 
-![](img/Day 8.png)
+![](img/Day%208.png)
 
 **Enlace:** <https://www.datawrapper.de/_/XMyiE/>
 
@@ -124,7 +124,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: ¿La desigualdad entre el norte y el sur de un país siempre es evidente?**
 
-![**Herramienta:** Python(matplotlib)](img/Day 9.png)
+![**Herramienta:** Python(matplotlib)](img/Day%209.png)
 
 **Fuente:** [INe](https://www.ine.es/jaxiT3/Datos.htm?t=10011)
 
@@ -132,7 +132,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: ¿ La población está realmente concienciada con los beneficios de la actividad física?**
 
-![](img/Day 10.png)
+![](img/Day%2010.png)
 
 **Herramienta:** Python(matplotlib)
 
@@ -142,7 +142,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: ¿Hay una relación entre las descargas de apps y las tendencias de consumo?**
 
-![](img/Day 11.png)
+![](img/Day%2011.png)
 
 **Enlace:** <https://www.datawrapper.de/_/Jgx14/?v=3>
 
@@ -152,7 +152,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: ¿Realmente está afectando la inflación al consumo?**
 
-![](img/Day 12.png)
+![](img/Day%2012.png)
 
 **Herramienta:** R(ggplot2)
 
@@ -164,7 +164,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: ¿Las reuniones familiares son realmente frecuentes?**
 
-![](img/Day 13.png)
+![](img/Day%2013.png)
 
 **Enlace:** <https://www.datawrapper.de/_/hKTCn/>
 
@@ -174,7 +174,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: ¿Que conexión/relación existe entre las diferentes partes de un coche?**
 
-![](img/Day 14.png)
+![](img/Day%2014.png)
 
 **Herramienta:** R(ggplot2)
 
@@ -184,7 +184,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: ¿Como hemos crecido a lo largo de la historía?**
 
-![](img/Day 15.PNG)
+![](img/Day%2015..png)
 
 **Enlace:** <https://www.datawrapper.de/_/3jZl2/?v=4>
 
@@ -194,7 +194,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: ¿Son realmente preocupantes estas temperaturas en esta época del año?**
 
-![](img/Day 16.PNG)
+![](img/Day%2016.PNG)
 
 **Enlace:** <https://www.datawrapper.de/_/nt3nn/>
 
@@ -204,7 +204,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: ¿Existe una trama tan compleja como lo parece en la serie?**
 
-![](img/Day 17.png)
+![](img/Day%2017.png)
 
 **Herramienta:** R(ggplot2)
 
@@ -214,7 +214,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: Evolución del PIB en el continente Asíatico en los últimos 6 años**
 
-![](img/Day 18.PNG)
+![](img/Day%2018.PNG)
 
 **Enlace:** <https://www.datawrapper.de/_/L6jut/?v=2>
 
@@ -226,7 +226,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: ¿Existe una relación temporal realmente?**
 
-![**Enlace:** <https://www.datawrapper.de/_/pwGwA/?v=3>](img/Day 19.png)
+![**Enlace:** <https://www.datawrapper.de/_/pwGwA/?v=3>](img/Day%2019.png)
 
 **Fuente:** [kaggle](https://www.kaggle.com/datasets/kjanjua/jurassic-park-the-exhaustive-dinosaur-dataset/data?select=data.csv)
 
@@ -234,7 +234,7 @@ knitr::include_url("https://datawrapper.dwcdn.net/pOGNd/2/", height = 450)
 
 **Cuestión: ¿Realmente existe una correlación tan clara?**
 
-![](img/Day 20.png)
+![](img/Day%2020.png)
 
 **Herramienta:** R(ggplot2)
 
@@ -244,7 +244,7 @@ Fuente: [AirPassengers](https://www.kaggle.com/datasets/chirag19/air-passengers
 
 **Cuestión: ¿La producción de energía verde progresa adecuadamente?**
 
-![](img/Day 21.png)
+![](img/Day%2021.png)
 
 **Enlace:** [https://www.datawrapper.dwcdn.net/Z7kuj/2/](https://datawrapper.dwcdn.net/Z7kuj/2/)
 
@@ -254,7 +254,7 @@ Fuente: [AirPassengers](https://www.kaggle.com/datasets/chirag19/air-passengers
 
 **Cuestión: ¿Vuelta a la normalidad tras la pandemia?**
 
-![](img/Day 22.png)
+![](img/Day%2022.png)
 
 **Enlace:** <https://datawrapper.dwcdn.net/sj6XB/2/>
 
@@ -264,7 +264,7 @@ Fuente: [AirPassengers](https://www.kaggle.com/datasets/chirag19/air-passengers
 
 **Cuestión: ¿Es realmente significativa esta representación?**
 
-![](img/Day 23.png)
+![](img/Day%2023.png)
 
 **Enlace:** <https://www.datawrapper.de/_/92WZT/>
 
@@ -274,7 +274,7 @@ Fuente: [AirPassengers](https://www.kaggle.com/datasets/chirag19/air-passengers
 
 **Cuestión: ¿La diferencia entre la pobreza y la pobreza extrema es tan considerable?**
 
-![](img/Day 24.png)
+![](img/Day%2024.png)
 
 **Enlace:** <https://app.datawrapper.de/archive#/5UGyF>
 
@@ -286,7 +286,7 @@ Fuente: [AirPassengers](https://www.kaggle.com/datasets/chirag19/air-passengers
 
 **Cuestión: Variación anual de la temperatura mundial en superficie**
 
-![](img/Day 25.png)
+![](img/Day%2025.png)
 
 **Enlace:** <https://www.datawrapper.de/_/kj5oO/>
 
@@ -296,7 +296,7 @@ Fuente: [AirPassengers](https://www.kaggle.com/datasets/chirag19/air-passengers
 
 **Cuestión: Porcentaje empresas que emplean tecnologías de Inteligencia Artificial (IA)**
 
-![](img/Day 26.png)
+![](img/Day%2026.png)
 
 **Enlace:** <https://www.datawrapper.de/_/FCUfy/>
 
@@ -306,7 +306,7 @@ Fuente: [AirPassengers](https://www.kaggle.com/datasets/chirag19/air-passengers
 
 **Cuestión: Nacimientos y Defunciones por CCAA en 2023**
 
-![](img/Day 27.png)
+![](img/Day%2027.png)
 
 **Enlace:** <https://www.datawrapper.de/_/F5Xdt/?v=4>
 
@@ -316,7 +316,7 @@ Fuente: [AirPassengers](https://www.kaggle.com/datasets/chirag19/air-passengers
 
 **Cuestión: Índice de Envejecimiento por año.**
 
-![](img/Day 28.png)
+![](img/Day%2028.png)
 
 **Enlace:** <https://www.datawrapper.de/_/c6s5n/?v=2>
 
@@ -326,7 +326,7 @@ Fuente: [AirPassengers](https://www.kaggle.com/datasets/chirag19/air-passengers
 
 **Cuestión: Crecimiento de la Población en 2022.**
 
-![](img/Day 29.png)
+![](img/Day%2029.png)
 
 **Enlace:** <https://www.datawrapper.de/_/1N8TE/?v=2>
 
@@ -336,7 +336,7 @@ Fuente: [AirPassengers](https://www.kaggle.com/datasets/chirag19/air-passengers
 
 **Cuestión: ¿Qué haría falta para que los estados rojos se volvieran azules?**
 
-![](img/Day 30.png)
+![](img/Day%2030.png)
 
 **Enlace:** <https://www.datawrapper.de/_/r7u6N/?v=2>
 
@@ -348,4 +348,4 @@ Fuente: [AirPassengers](https://www.kaggle.com/datasets/chirag19/air-passengers
 
 -   Repositorio del challenge: <https://github.com/30DayChartChallenge/Edition2024>
 
--   Repositorio personal del challenge:
+-   Repositorio personal del challenge: <https://github.com/Jormart/30DayChartChallenge.git>
