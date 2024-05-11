@@ -18,54 +18,94 @@ If you share your contributions on X or bsky, please use the hashtag [#30DayChar
 <details>
   <summary>Comparisons</summary>
   
-  1. part-to-whole ![](img/Day%201.png)\
-  2. neo ![](img/Day%202.png)\
-  3. makeover ![](img/Day%203.png)\
-  4. waffle ![](img/Day%204.png)\
-  5. diverging ![](img/Day%205.png)\
-  6. data day: [OECD](data.oecd.org) ![](img/Day%206.png)
+  <div style="text-align: center;">
+    1. part-to-whole<br>
+    ![](img/Day%201.png)<br>
+    2. neo<br>
+    ![](img/Day%202.png)<br>
+    3. makeover<br>
+    ![](img/Day%203.png)<br>
+    4. waffle<br>
+    ![](img/Day%204.png)<br>
+    5. diverging<br>
+    ![](img/Day%205.png)<br>
+    6. data day: [OECD](data.oecd.org)<br>
+    ![](img/Day%206.png)
+  </div>
 </details>
 
 <details>
   <summary>Distributions</summary>
   
-  7. hazards ![](img/Day%207.png)\
-  8. circular ![](img/Day%208.png)\
-  9. major/minor ![](img/Day%209.png)\
-  10. physical ![](img/Day%2010.png)\
-  11. mobile-friendly ![](img/Day%2011.png)\
-  12. theme day: Reuters Graphics ![](img/Day%2012.png)
+  <div style="text-align: center;">
+    7. hazards<br>
+    ![](img/Day%207.png)<br>
+    8. circular<br>
+    ![](img/Day%208.png)<br>
+    9. major/minor<br>
+    ![](img/Day%209.png)<br>
+    10. physical<br>
+    ![](img/Day%2010.png)<br>
+    11. mobile-friendly<br>
+    ![](img/Day%2011.png)<br>
+    12. theme day: Reuters Graphics<br>
+    ![](img/Day%2012.png)
+  </div>
 </details>
 
 <details>
   <summary>Relationships</summary>
   
-  13. family ![](img/Day%2013.png)\
-  14. heatmap ![](img/Day%2014.png)\
-  15. historical ![](img/Day%2015.png)\
-  16. weather ![](img/Day%2016.png)\
-  17. networks ![](img/Day%2017.png)\
-  18. data day: [Asian Development Bank](data.adb.org) ![](img/Day%2018.png)
+  <div style="text-align: center;">
+    13. family<br>
+    ![](img/Day%2013.png)<br>
+    14. heatmap<br>
+    ![](img/Day%2014.png)<br>
+    15. historical<br>
+    ![](img/Day%2015.png)<br>
+    16. weather<br>
+    ![](img/Day%2016.png)<br>
+    17. networks<br>
+    ![](img/Day%2017.png)<br>
+    18. data day: [Asian Development Bank](data.adb.org)<br>
+    ![](img/Day%2018.png)
+  </div>
 </details>
 
 <details>
   <summary>Timeseries</summary>
   
-  19. dinosaurs ![](img/Day%2019.png)\
-  20. correlation ![](img/Day%2020.png)\
-  21. green energy ![](img/Day%2021.png)\
-  22. mobility ![](img/Day%2022.png)\
-  23. tiles ![](img/Day%2023.png)\
-  24. theme day: [ILO Africa](ilostat.ilo.org/data/africa/) ![](img/Day%2024.png)
+  <div style="text-align: center;">
+    19. dinosaurs<br>
+    ![](img/Day%2019.png)<br>
+    20. correlation<br>
+    ![](img/Day%2020.png)<br>
+    21. green energy<br>
+    ![](img/Day%2021.png)<br>
+    22. mobility<br>
+    ![](img/Day%2022.png)<br>
+    23. tiles<br>
+    ![](img/Day%2023.png)<br>
+    24. theme day: [ILO Africa](ilostat.ilo.org/data/africa/)<br>
+    ![](img/Day%2024.png)
+  </div>
 </details>
 
 <details>
   <summary>Uncertainties</summary>
   
-  25. global change ![](img/Day%2025.png)\
-  26. AI ![](img/Day%2026.png)\
-  27. good/bad ![](img/Day%2027.png)\
-  28. trend ![](img/Day%2028.png)\
-  29. black & white ![](img/Day%2029.png)\
-  30. theme day: ![](img/Day%2030.png)
+  <div style="text-align: center;">
+    25. global change<br>
+    ![](img/Day%2025.png)<br>
+    26. AI<br>
+    ![](img/Day%2026.png)<br>
+    27. good/bad<br>
+    ![](img/Day%2027.png)<br>
+    28. trend<br>
+    ![](img/Day%2028.png)<br>
+    29. black & white<br>
+    ![](img/Day%2029.png)<br>
+    30. theme day<br>
+    ![](img/Day%2030.png)
+  </div>
 </details>
