@@ -23,7 +23,11 @@ If you share your contributions on X or bsky, please use the hashtag [#30DayChar
     3. makeover ![](img/Day%203.png)\
     4. waffle ![](img/Day%204.png)\
     5. diverging ![](img/Day%205.png)\
+<<<<<<< HEAD
     6. data day: [OECD](data.oecd.org) ![](img/Day%206.png)
+=======
+    5. data day: [OECD](data.oecd.org) ![](img/Day%206.png)
+>>>>>>> 0d7f24fbb4affb4fe1c96fcec5f080118a37d566
 -   **Distributions**\
     7. hazards ![](img/Day%207.png)\
     8. circular ![](img/Day%208.png)\
